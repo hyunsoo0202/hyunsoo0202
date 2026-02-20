@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript"> <img src="https://img.shields.io/badge/NextJS-000000?logo=Next.js">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript"> <img src="https://img.shields.io/badge/NextJS-000000?logo=Next.js"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter">
 
 <img src="https://img.shields.io/badge/NodeJS-5FA04E?logo=Node.js"> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma">
 
